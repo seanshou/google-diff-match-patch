@@ -4,7 +4,7 @@ The Diff Match and Patch libraries offer robust algorithms to perform the operat
 
 1. Diff:
    * Compare two blocks of plain text and efficiently return a list of differences.
-   * [Diff Demo](http://htmlpreview.github.com/?https://github.com/seanshou/google-diff-match-patch/tree/master/trunk/demos/demo_diff.html)
+   * [Diff Demo](http://htmlpreview.github.com/?https://github.com/seanshou/google-diff-match-patch/blob/master/trunk/demos/demo_diff.html)
 2. Match:
    * Given a search string, find its best fuzzy match in a block of plain text. Weighted for both accuracy and location.
    * [Match Demo](http://htmlpreview.github.com/?https://github.com/seanshou/google-diff-match-patch/tree/master/trunk/demos/demo_match.html)
